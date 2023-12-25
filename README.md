@@ -1,3 +1,3 @@
 # BreadcrumbsBasic-Browser-with-Python.
-!(https://postimg.cc/vgjTkCSs)[Captura-de-pantalla-2023-12-25-131852.png]
-![Captura-de-pantalla-2023-12-25-131917.png](https://postimg.cc/t7ZYWCYC)
+![Imagen_1](https://postimg.cc/vgjTkCSs)
+![Imagen_2](https://postimg.cc/t7ZYWCYC)
